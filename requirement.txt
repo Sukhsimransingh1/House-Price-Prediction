@@ -1,0 +1,10 @@
+scikit-learn
+numpy
+pandas
+matplotlib
+seaborn
+streamlit
+flask
+joblib
+openpyxl
+mysql-connector-python

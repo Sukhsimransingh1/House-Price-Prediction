@@ -1,0 +1,8 @@
+# Hide Streamlit secrets and other sensitive files
+.streamlit/secrets.toml
+
+# Python cache and virtual environments
+__pycache__/
+*.pyc
+venv/
+.env
