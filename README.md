@@ -7,14 +7,14 @@ This is a beginner-to-intermediate level Data Science project that predicts hous
 ## Project Structure
 
 house_price_prediction/
-├── 01_data_cleaning.ipynb # Clean and explore your data
-├── 02_model_training.ipynb # Train and save your model
-├── app.py # Streamlit app (user interface)
-├── House_Price_Data.csv.xlsx # Original dataset
-├── cleaned_data.csv # Cleaned version of dataset
-├── house_price_model.pkl # Trained ML model
-├── model_columns.pkl # Saved input feature names
-└── requirements.txt # Python dependencies
+- 01_data_cleaning.ipynb # Clean and explore your data
+- 02_model_training.ipynb # Train and save your model
+-  app.py # Streamlit app (user interface)
+- House_Price_Data.csv.xlsx # Original dataset
+-  cleaned_data.csv # Cleaned version of dataset
+-  house_price_model.pkl # Trained ML model
+-  model_columns.pkl # Saved input feature names
+-  requirements.txt # Python dependencies
 
 ---
 
